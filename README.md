@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexAugusto0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-###Ferramentas e Tecnologias <br/>
+Ferramentas e Tecnologias <br/>
 <img loading = "lazzy" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
 <img loading = "lazzy" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 <img loading = "lazzy" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40" />
